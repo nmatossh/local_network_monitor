@@ -1,6 +1,6 @@
 # 🚀 Real-Time Network Monitor
 
-Un panel de control dinámico y liviano para monitorear la latencia de red de múltiples dispositivos simultáneamente. Diseñado para funcionar como una aplicación de escritorio independiente en Windows.
+Un panel de control dinámico y liviano para monitorear la latencia de red de múltiples dispositivos simultáneamente, que se ejecuta utilizando Chrome como una aplicación de escritorio independiente en Windows.
 
 ## 🇪🇸 Características (Spanish)
 - **Monitoreo en tiempo real**: Actualización constante de latencia (ping) con precisión de decimales.
