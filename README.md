@@ -2,14 +2,14 @@
 
 Un panel de control dinámico y liviano para monitorear la latencia de red de múltiples dispositivos simultáneamente, que se ejecuta utilizando Chrome como una aplicación de escritorio independiente en Windows.
 
-## 🇪🇸 Características (Spanish)
+## 🇪🇸 Características
 - **Monitoreo en tiempo real**: Actualización constante de latencia (ping) con precisión de decimales.
 - **Interfaz Visual**: 8 monitores organizados en una cuadrícula con gráficos de área históricos.
-- **Personalización**: Diccionario de IPs para asignar nombres amigables (ej: "Router Cisco", "JOTUNHEIM").
+- **Personalización**: Diccionario de IPs para asignar nombres amigables (ej: "Router Cisco", "SERVER").
 - **Alertas por color**: Sistema de semáforo (Verde: OK, Amarillo: +100ms, Rojo: Timeout).
 - **Modo App**: Script VBScript incluido para ejecutarlo sin ventanas de consola y sin barras de navegador.
 
-- ## 🇺🇸 Features (English)
+- ## 🇺🇸 Features
 - **Real-time Monitoring**: Constant latency (ping) updates with decimal precision.
 - **Visual Interface**: 8 monitors arranged in a grid with historical area charts.
 - **Customizable**: IP dictionary to assign friendly names (e.g., "Main Server").
@@ -40,4 +40,3 @@ streamlit run Dashboard.py
 ## 📂 Estructura del Proyecto / Project Structure
 * `Dashboard.py`: El núcleo de la aplicación en Python.
 * `Monitor.vbs`: Script para lanzamiento silencioso en modo aplicación.
-* `Kill_Monitor.bat`: Script para cerrar todos los procesos de fondo.
